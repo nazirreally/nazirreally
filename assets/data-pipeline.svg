@@ -1,98 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="545" viewBox="0 0 1200 545" role="img" aria-labelledby="title desc">
-<title id="title">From raw data to reliable decisions</title>
-<desc id="desc">Six-stage data workflow: Data sources, Ingest and load, Data quality, Transform (ELT), Warehouse and marts, Analytics and insights. The arrows follow the top row to the right and the bottom row to the left.</desc>
-<defs>
-  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#0B1422"/>
-    <stop offset=".58" stop-color="#10243B"/>
-    <stop offset="1" stop-color="#0D192A"/>
-  </linearGradient>
-  <radialGradient id="halo" cx=".9" cy=".05" r=".9"><stop stop-color="#1B4670" stop-opacity=".55"/><stop offset="1" stop-color="#0D1726" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#86AFD9" opacity=".13"/></pattern>
-  <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L7 4.5 L1 8" fill="none" stroke="#64C6F4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker>
-</defs>
-<rect width="1200" height="545" rx="20" fill="url(#background)"/>
-<rect width="1200" height="545" rx="20" fill="url(#halo)"/>
-<rect width="1200" height="545" rx="20" fill="url(#dots)"/>
-<rect x="1" y="1" width="1198" height="543" rx="19" fill="none" stroke="#3A536E" stroke-opacity=".6" stroke-width="2"/>
-<rect x="32" y="26" width="188" height="24" rx="12" fill="#1C3652" stroke="#3D719D" stroke-opacity=".55"/>
-<circle cx="49" cy="38" r="4" fill="#5ED8B9"/>
-<text x="62" y="42" fill="#A8D5FF" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" font-weight="750" letter-spacing="1.4">THE DATA LIFECYCLE</text>
-<text x="32" y="91" fill="#F2F7FF" font-family="Segoe UI,Arial,sans-serif" font-weight="750" font-size="34">From raw data to reliable decisions</text>
-<text x="33" y="118" fill="#A9BCD4" font-family="Segoe UI,Arial,sans-serif" font-size="15.5">My approach to building trustworthy, analysis-ready data systems</text>
-<g fill="none" stroke="#64C6F4" stroke-width="3.2" stroke-linecap="round" marker-end="url(#arrow)">
-<path d="M375 223 H423"/>
-<path d="M773 223 H821"/>
-<path d="M998 299 V347"/>
-<path d="M825 428 H777"/>
-<path d="M427 428 H379"/>
-</g>
-<g transform="translate(32,151)">
-  <rect width="340" height="144" rx="16" fill="#172334" stroke="#314258" stroke-width="1.5"/>
-  <path d="M16 1 H324" stroke="#58A6FF" stroke-width="3" stroke-linecap="round"/>
-  <rect x="21" y="19" width="47" height="27" rx="8" fill="#243449" stroke="#58A6FF" stroke-opacity=".45"/>
-  <text x="44.5" y="37.5" fill="#58A6FF" font-size="14" font-weight="750" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">01</text>
-  <g transform="translate(291,42)" style="color:#58A6FF" stroke="#58A6FF" opacity=".95"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="currentColor"><ellipse cx="0" cy="-10" rx="14" ry="6"/><path d="M-14 -10v20c0 3.5 6.3 6.5 14 6.5S14 13.5 14 10v-20"/><path d="M-14 0c0 3.5 6.3 6 14 6S14 3.5 14 0"/></g></g>
-  <text x="21" y="83" fill="#F1F6FD" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Data sources</text>
-  <text x="21" y="112" fill="#AFC3DB" font-family="Segoe UI,Arial,sans-serif" font-size="16">APIs  /  Files  /  Databases</text>
-  <text x="21" y="133" fill="#58A6FF" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.1">COLLECT</text>
- </g>
-<g transform="translate(430,151)">
-  <rect width="340" height="144" rx="16" fill="#172334" stroke="#314258" stroke-width="1.5"/>
-  <path d="M16 1 H324" stroke="#67C9F5" stroke-width="3" stroke-linecap="round"/>
-  <rect x="21" y="19" width="47" height="27" rx="8" fill="#243449" stroke="#67C9F5" stroke-opacity=".45"/>
-  <text x="44.5" y="37.5" fill="#67C9F5" font-size="14" font-weight="750" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">02</text>
-  <g transform="translate(291,42)" style="color:#67C9F5" stroke="#67C9F5" opacity=".95"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="currentColor"><path d="M0 -18v24m-8-8 8 8 8-8"/><path d="M-18 10v7h36v-7"/><path d="M-14 9h28"/></g></g>
-  <text x="21" y="83" fill="#F1F6FD" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Ingest &amp; load</text>
-  <text x="21" y="112" fill="#AFC3DB" font-family="Segoe UI,Arial,sans-serif" font-size="16">Extract  /  Load  /  Integrate</text>
-  <text x="21" y="133" fill="#67C9F5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.1">MOVE</text>
- </g>
-<g transform="translate(828,151)">
-  <rect width="340" height="144" rx="16" fill="#172334" stroke="#314258" stroke-width="1.5"/>
-  <path d="M16 1 H324" stroke="#5ED8B9" stroke-width="3" stroke-linecap="round"/>
-  <rect x="21" y="19" width="47" height="27" rx="8" fill="#243449" stroke="#5ED8B9" stroke-opacity=".45"/>
-  <text x="44.5" y="37.5" fill="#5ED8B9" font-size="14" font-weight="750" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">03</text>
-  <g transform="translate(291,42)" style="color:#5ED8B9" stroke="#5ED8B9" opacity=".95"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="currentColor"><path d="M0 -19 16-12v12c0 11-7 18-16 22C-9 18-16 11-16 0v-12Z"/><path d="m-8 1 6 6L9-5"/></g></g>
-  <text x="21" y="83" fill="#F1F6FD" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Data quality</text>
-  <text x="21" y="112" fill="#AFC3DB" font-family="Segoe UI,Arial,sans-serif" font-size="16">Validate  /  Test  /  Monitor</text>
-  <text x="21" y="133" fill="#5ED8B9" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.1">TRUST</text>
- </g>
-<g transform="translate(32,356)">
-  <rect width="340" height="144" rx="16" fill="#172334" stroke="#314258" stroke-width="1.5"/>
-  <path d="M16 1 H324" stroke="#8CE2BB" stroke-width="3" stroke-linecap="round"/>
-  <rect x="21" y="19" width="47" height="27" rx="8" fill="#243449" stroke="#8CE2BB" stroke-opacity=".45"/>
-  <text x="44.5" y="37.5" fill="#8CE2BB" font-size="14" font-weight="750" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">06</text>
-  <g transform="translate(291,42)" style="color:#8CE2BB" stroke="#8CE2BB" opacity=".95"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="currentColor"><path d="M-18 18h36"/><rect x="-14" y="4" width="7" height="14" rx="1.5"/><rect x="-3" y="-5" width="7" height="23" rx="1.5"/><rect x="8" y="-15" width="7" height="33" rx="1.5"/></g></g>
-  <text x="21" y="83" fill="#F1F6FD" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Analytics &amp; insights</text>
-  <text x="21" y="112" fill="#AFC3DB" font-family="Segoe UI,Arial,sans-serif" font-size="16">Dashboards  /  Decisions</text>
-  <text x="21" y="133" fill="#8CE2BB" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.1">DELIVER</text>
- </g>
-<g transform="translate(430,356)">
-  <rect width="340" height="144" rx="16" fill="#172334" stroke="#314258" stroke-width="1.5"/>
-  <path d="M16 1 H324" stroke="#67C9F5" stroke-width="3" stroke-linecap="round"/>
-  <rect x="21" y="19" width="47" height="27" rx="8" fill="#243449" stroke="#67C9F5" stroke-opacity=".45"/>
-  <text x="44.5" y="37.5" fill="#67C9F5" font-size="14" font-weight="750" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">05</text>
-  <g transform="translate(291,42)" style="color:#67C9F5" stroke="#67C9F5" opacity=".95"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="currentColor"><path d="M-18-9 0-19 18-9v27h-36Z"/><path d="M-11-2h22M-11 6h22M-11 14h22"/><path d="M-3-2v16M6-2v16"/></g></g>
-  <text x="21" y="83" fill="#F1F6FD" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Warehouse &amp; marts</text>
-  <text x="21" y="112" fill="#AFC3DB" font-family="Segoe UI,Arial,sans-serif" font-size="16">Modelled  /  Curated  /  Ready</text>
-  <text x="21" y="133" fill="#67C9F5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.1">SERVE</text>
- </g>
-<g transform="translate(828,356)">
-  <rect width="340" height="144" rx="16" fill="#172334" stroke="#314258" stroke-width="1.5"/>
-  <path d="M16 1 H324" stroke="#B7A0FF" stroke-width="3" stroke-linecap="round"/>
-  <rect x="21" y="19" width="47" height="27" rx="8" fill="#243449" stroke="#B7A0FF" stroke-opacity=".45"/>
-  <text x="44.5" y="37.5" fill="#B7A0FF" font-size="14" font-weight="750" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">04</text>
-  <g transform="translate(291,42)" style="color:#B7A0FF" stroke="#B7A0FF" opacity=".95"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" color="currentColor"><path d="M-15 -7a18 18 0 0 1 29-4"/><path d="m8-17 6 6-7 6"/><path d="M15 7a18 18 0 0 1-29 4"/><path d="m-8 17-6-6 7-6"/></g></g>
-  <text x="21" y="83" fill="#F1F6FD" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Transform (ELT)</text>
-  <text x="21" y="112" fill="#AFC3DB" font-family="Segoe UI,Arial,sans-serif" font-size="16">Clean  /  Join  /  Model</text>
-  <text x="21" y="133" fill="#B7A0FF" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="2.1">REFINE</text>
- </g>
-<g font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#86A5C5">
-<text x="33" y="520">SOURCE</text>
-<path d="M91 516h18" stroke="#4E779A" stroke-width="1.4"/>
-<text x="117" y="520">PROCESS</text>
-<path d="M181 516h18" stroke="#4E779A" stroke-width="1.4"/>
-<text x="207" y="520">SERVE</text>
-<text x="1167" y="520" text-anchor="end" fill="#6B91B6" letter-spacing="1.3">ENGINEERED FOR TRUST</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Minimal blue and white data engineering illustration">
+<rect width="1200" height="400" rx="16" fill="#FFFFFF"/>
+
+ <g transform="translate(77 76)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="5"><circle r="20" stroke-dasharray="8 5" stroke-width="8"/><circle r="7.692307692307692" fill="#fff" stroke="none"/></g><g transform="translate(1112 75)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="5.75"><circle r="23" stroke-dasharray="8 5" stroke-width="9.2"/><circle r="8.846153846153847" fill="#fff" stroke="none"/></g><g transform="translate(977 340)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="4.25"><circle r="17" stroke-dasharray="8 5" stroke-width="6.8"/><circle r="6.538461538461538" fill="#fff" stroke="none"/></g>
+ <text x="600" y="89" fill="#1764D9" font-size="39" font-weight="800" text-anchor="middle" font-family="Arial,sans-serif">How I Think About Data</text>
+ <text x="600" y="122" fill="#68788B" font-size="17" text-anchor="middle" font-family="Arial,sans-serif">A practical approach to turning raw information into trusted analytics</text>
+ <path d="M559 143h82" stroke="#8CB8F3" stroke-width="5" stroke-linecap="round"/>
+ <g transform="translate(28 188)">
+ <rect width="180" height="148" rx="17" fill="#F3F7FD" stroke="#E4ECF5" stroke-width="1.5"/>
+ <g transform="translate(90 52) scale(1.1)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="0" cy="-11" rx="14" ry="6"/><path d="M-14-11v24c0 8 28 8 28 0v-24M-14-1c0 8 28 8 28 0M-14 9c0 8 28 8 28 0"/></g></g>
+ <text x="90" y="106" fill="#203349" font-family="Arial,sans-serif" font-size="16" font-weight="720" text-anchor="middle">Data sources</text>
+ <text x="90" y="127" fill="#68788B" font-family="Arial,sans-serif" font-size="12.3" text-anchor="middle">APIs · Files · DBs</text></g><path d="M212 262h10m-6-5 6 5-6 5" stroke="#A9B9CB" stroke-width="2.5" fill="none" stroke-linecap="round"/><g transform="translate(226 188)">
+ <rect width="180" height="148" rx="17" fill="#F3F7FD" stroke="#E4ECF5" stroke-width="1.5"/>
+ <g transform="translate(90 52) scale(1.1)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0-15V9m-8-8 8 8 8-8M-16 13v6h32v-6"/></g></g>
+ <text x="90" y="106" fill="#203349" font-family="Arial,sans-serif" font-size="16" font-weight="720" text-anchor="middle">Ingestion</text>
+ <text x="90" y="127" fill="#68788B" font-family="Arial,sans-serif" font-size="12.3" text-anchor="middle">Extract · Load</text></g><path d="M410 262h10m-6-5 6 5-6 5" stroke="#A9B9CB" stroke-width="2.5" fill="none" stroke-linecap="round"/><g transform="translate(424 188)">
+ <rect width="180" height="148" rx="17" fill="#F3F7FD" stroke="#E4ECF5" stroke-width="1.5"/>
+ <g transform="translate(90 52) scale(1.1)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle r="18"/><path d="m-9 0 7 7L11-8"/></g></g>
+ <text x="90" y="106" fill="#203349" font-family="Arial,sans-serif" font-size="16" font-weight="720" text-anchor="middle">Validation</text>
+ <text x="90" y="127" fill="#68788B" font-family="Arial,sans-serif" font-size="12.3" text-anchor="middle">Quality checks</text></g><path d="M608 262h10m-6-5 6 5-6 5" stroke="#A9B9CB" stroke-width="2.5" fill="none" stroke-linecap="round"/><g transform="translate(622 188)">
+ <rect width="180" height="148" rx="17" fill="#F3F7FD" stroke="#E4ECF5" stroke-width="1.5"/>
+ <g transform="translate(90 52) scale(1.1)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0-17 18-7 0 3-18-7ZM-18 3 0 13 18 3M-18 12 0 22 18 12"/></g></g>
+ <text x="90" y="106" fill="#203349" font-family="Arial,sans-serif" font-size="16" font-weight="720" text-anchor="middle">Transformation</text>
+ <text x="90" y="127" fill="#68788B" font-family="Arial,sans-serif" font-size="12.3" text-anchor="middle">Clean · Model</text></g><path d="M806 262h10m-6-5 6 5-6 5" stroke="#A9B9CB" stroke-width="2.5" fill="none" stroke-linecap="round"/><g transform="translate(820 188)">
+ <rect width="180" height="148" rx="17" fill="#F3F7FD" stroke="#E4ECF5" stroke-width="1.5"/>
+ <g transform="translate(90 52) scale(1.1)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-20-4 0-18 20-4v23h-40Z M-11 2h22M-11 9h22M-11 16h22"/></g></g>
+ <text x="90" y="106" fill="#203349" font-family="Arial,sans-serif" font-size="16" font-weight="720" text-anchor="middle">Warehouse</text>
+ <text x="90" y="127" fill="#68788B" font-family="Arial,sans-serif" font-size="12.3" text-anchor="middle">Curated data</text></g><path d="M1004 262h10m-6-5 6 5-6 5" stroke="#A9B9CB" stroke-width="2.5" fill="none" stroke-linecap="round"/><g transform="translate(1018 188)">
+ <rect width="180" height="148" rx="17" fill="#F3F7FD" stroke="#E4ECF5" stroke-width="1.5"/>
+ <g transform="translate(90 52) scale(1.1)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-20 19h40M-13 14V4M0 14v-17M13 14v-27"/></g></g>
+ <text x="90" y="106" fill="#203349" font-family="Arial,sans-serif" font-size="16" font-weight="720" text-anchor="middle">Analytics</text>
+ <text x="90" y="127" fill="#68788B" font-family="Arial,sans-serif" font-size="12.3" text-anchor="middle">Useful insights</text></g>
+ <text x="600" y="371" text-anchor="middle" fill="#8493A5" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">COLLECT  ·  PROCESS  ·  SERVE  ·  IMPROVE</text>
+
 </svg>
