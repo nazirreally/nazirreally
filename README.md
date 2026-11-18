@@ -17,18 +17,16 @@
 <table>
 <tr>
 <td valign="top" width="59%">
-
-### 👨‍💻 About me
-
-I'm **Nazir Ali Khan**, a software engineer based in **Karachi, Pakistan**, with a growing focus on **data engineering** and **data analytics**.
-
-- 🔧 Building reproducible data pipelines with Python and SQL.
-- 🧪 Interested in automated testing, data quality and dependable systems.
-- 📊 Turning raw data into useful, analysis-ready datasets.
-- 🌱 Learning modern tools for orchestration, transformations and cloud data workflows.
-- 🎯 Developing a practical portfolio for **Data Engineer** and **Data Analyst** roles.
-- 🎓 Computer Science graduate studies at **NED University**.
-
+  <h3>👨‍💻 About me</h3>
+  <p>I'm <strong>Nazir Ali Khan</strong>, a software engineer based in <strong>Karachi, Pakistan</strong>, with a growing focus on <strong>data engineering</strong> and <strong>data analytics</strong>.</p>
+  <ul>
+    <li>🔧 Building reproducible data pipelines with Python and SQL.</li>
+    <li>🧪 Interested in automated testing, data quality and dependable systems.</li>
+    <li>📊 Turning raw data into useful, analysis-ready datasets.</li>
+    <li>🌱 Learning modern tools for orchestration, transformations and cloud data workflows.</li>
+    <li>🎯 Developing a practical portfolio for <strong>Data Engineer</strong> and <strong>Data Analyst</strong> roles.</li>
+    <li>🎓 Computer Science graduate studies at <strong>NED University</strong>.</li>
+  </ul>
 </td>
 <td valign="middle" width="41%">
   <img src="assets/data-focus.svg" width="100%" alt="Current focus: data ingestion, quality checks and analytics models" />
