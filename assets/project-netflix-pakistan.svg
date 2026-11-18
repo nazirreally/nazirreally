@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="255" viewBox="0 0 540 255" role="img" aria-labelledby="title desc">
+<title id="title">Netflix Pakistan Analytics</title>
+<desc id="desc">White and blue portfolio project card for Netflix Pakistan historical content analysis with a simple comparison bar chart.</desc>
+<rect width="540" height="255" rx="20" fill="#FFFFFF"/>
+<rect x="1" y="1" width="538" height="253" rx="19" fill="none" stroke="#DFE7F1" stroke-width="2"/>
+<path d="M24 28h48" stroke="#1764D9" stroke-width="4" stroke-linecap="round"/>
+<text x="25" y="52" fill="#1764D9" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" font-weight="750">CONTENT ANALYTICS / PAKISTAN</text>
+<text x="25" y="93" fill="#203349" font-family="Arial,sans-serif" font-size="29" font-weight="800">Netflix Pakistan EDA</text>
+<text x="25" y="118" fill="#718299" font-family="Arial,sans-serif" font-size="16">Historical catalogue  ·  Plotly storytelling</text>
+<g transform="translate(26 138)">
+  <rect width="332" height="89" rx="11" fill="#F3F7FD" stroke="#E2EBF6"/>
+  <path d="M15 71H319 M15 48H319 M15 25H319" stroke="#DFE8F3"/>
+  <rect x="39" y="50" width="39" height="21" rx="4" fill="#9CC3F7"/>
+  <rect x="94" y="38" width="39" height="33" rx="4" fill="#72ABF2"/>
+  <rect x="149" y="16" width="39" height="55" rx="4" fill="#1764D9"/>
+  <rect x="204" y="31" width="39" height="40" rx="4" fill="#4F94EB"/>
+  <rect x="259" y="45" width="39" height="26" rx="4" fill="#9CC3F7"/>
+  <path d="M58 39L113 28L168 10L223 22L278 34" fill="none" stroke="#2C6ECC" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 5"/>
+</g>
+<g transform="translate(371 138)">
+  <rect width="142" height="89" rx="11" fill="#F2F7FD" stroke="#E2EBF6"/>
+  <text x="14" y="25" fill="#7E8DA2" font-family="Arial,sans-serif" font-size="11" font-weight="700">DATA STORY</text>
+  <text x="14" y="56" fill="#1764D9" font-family="Arial,sans-serif" font-size="22" font-weight="800">PLOTLY</text>
+  <text x="14" y="73" fill="#68819E" font-family="Arial,sans-serif" font-size="10">Interactive charts</text>
+</g>
+</svg>
