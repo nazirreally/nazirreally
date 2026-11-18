@@ -1,15 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="330" viewBox="0 0 460 330" role="img" aria-labelledby="t d">
-<title id="t">Data engineering focus</title>
-<desc id="d">A stylized pipeline console showing a reliable data workflow, from ingestion to analysis.</desc>
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10253A"/><stop offset="1" stop-color="#172A46"/></linearGradient></defs>
-<rect width="460" height="330" rx="24" fill="url(#b)"/><rect x="1" y="1" width="458" height="328" rx="23" stroke="#365577" stroke-width="2" fill="none"/>
-<rect x="26" y="25" width="408" height="44" rx="12" fill="#1D3D56"/>
-<circle cx="49" cy="47" r="6" fill="#75DCBD"/><text x="66" y="53" fill="#ACD4EE" font-size="16" font-family="monospace">data_pipeline.py</text>
-<text x="30" y="104" fill="#5ED9C9" font-size="13" letter-spacing="2" font-weight="700" font-family="Arial,sans-serif">CURRENT FOCUS</text>
-<g font-family="Arial,sans-serif" font-size="18" font-weight="700">
-<rect x="28" y="127" width="404" height="39" rx="10" fill="#1C344C"/><circle cx="52" cy="147" r="8" fill="#59B0FF"/><text x="76" y="153" fill="#E5F1FC">01  Data ingestion</text><text x="404" y="152" fill="#77D9B9" text-anchor="end">●</text>
-<rect x="28" y="178" width="404" height="39" rx="10" fill="#1C344C"/><circle cx="52" cy="198" r="8" fill="#69D1C4"/><text x="76" y="204" fill="#E5F1FC">02  Quality checks</text><text x="404" y="203" fill="#77D9B9" text-anchor="end">●</text>
-<rect x="28" y="229" width="404" height="39" rx="10" fill="#1C344C"/><circle cx="52" cy="249" r="8" fill="#9C9AEB"/><text x="76" y="255" fill="#E5F1FC">03  Analytics models</text><text x="404" y="254" fill="#77D9B9" text-anchor="end">●</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="330" viewBox="0 0 460 330" role="img" aria-label="Minimal blue and white data engineering illustration">
+<rect width="460" height="330" rx="16" fill="#FFFFFF"/>
+
+<g transform="translate(75 72)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="5.75"><circle r="23" stroke-dasharray="8 5" stroke-width="9.2"/><circle r="8.846153846153847" fill="#fff" stroke="none"/></g><g transform="translate(398 47)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="4.5"><circle r="18" stroke-dasharray="8 5" stroke-width="7.2"/><circle r="6.9230769230769225" fill="#fff" stroke="none"/></g>
+<g><rect x="48" y="59" width="171" height="106" rx="10" fill="white" stroke="#D6E2EF" stroke-width="2"/><path d="M49 69Q49 60 58 60H209Q218 60 218 69V83H49Z" fill="#1764D9"/><circle cx="203" cy="71" r="2.5" fill="#FFFFFF"/><circle cx="193" cy="71" r="2.5" fill="#FFFFFF"/><circle cx="183" cy="71" r="2.5" fill="#FFFFFF"/><g stroke="#BFCBDA" stroke-width="3.5" stroke-linecap="round"><path d="M62 95h111M62 108h95M62 122h119M62 135h65"/></g></g>
+<g transform="translate(106 215) scale(0.72)">
+ <path d="M-52 102Q-54 48-13 36Q36 26 57 73L71 128H-53Z" fill="#8DB9F3" stroke="#3F85DA" stroke-width="2"/>
+ <path d="M-25 73L-8 95L12 74M-8 95v31" fill="none" stroke="#4D8FDF" stroke-width="3" stroke-linecap="round"/>
+ <path d="M-46 9Q-54-25-30-43Q-13-68 17-54Q48-57 49-20L39 27L20 47L-23 40Z" fill="#233747"/>
+ <ellipse cx="3" cy="0" rx="37" ry="44" fill="#E4AC77"/>
+ <path d="M-34-7Q-41-53-7-54Q30-64 42-24L30-11Q11-28-2-24Q-17-5-34-7Z" fill="#213447"/>
+ <path d="M-34 10q-16-11-16 3q1 12 16 13M37 11q14-9 13 4q-3 12-12 11" fill="#E4AC77"/>
+ <g stroke="#283F4C" stroke-width="3" fill="none"><circle cx="-13" cy="7" r="13"/><circle cx="21" cy="7" r="13"/><path d="M0 7h8M-28 5h-10M35 5h10"/></g>
+ <path d="M-5 30q13 9 24-1" fill="none" stroke="#7E4A35" stroke-width="2.5" stroke-linecap="round"/>
+ <path d="M11 49v16" stroke="#E4AC77" stroke-width="13" stroke-linecap="round"/>
 </g>
-<text x="29" y="302" fill="#91B5D1" font-size="14" font-family="monospace">design → test → document → improve</text>
+<path d="M148 245h113l-11 59h-94Z" fill="#A1B0C2" stroke="#8091A4" stroke-width="2"/>
+<path d="M27 308h251" stroke="#1764D9" stroke-width="7" stroke-linecap="round"/>
+<text x="269" y="57" font-family="Arial,sans-serif" font-size="17" font-weight="800" fill="#1764D9">CURRENT FOCUS</text>
+<g transform="translate(266 77)"><rect width="177" height="62" rx="12" fill="#F3F7FC" stroke="#E1E9F2"/><g transform="translate(28 30) scale(.62)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="0" cy="-11" rx="14" ry="6"/><path d="M-14-11v24c0 8 28 8 28 0v-24M-14-1c0 8 28 8 28 0M-14 9c0 8 28 8 28 0"/></g></g><text x="54" y="36" fill="#203349" font-size="15" font-family="Arial,sans-serif" font-weight="650">Ingestion</text></g><g transform="translate(266 152)"><rect width="177" height="62" rx="12" fill="#F3F7FC" stroke="#E1E9F2"/><g transform="translate(28 30) scale(.62)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle r="18"/><path d="m-9 0 7 7L11-8"/></g></g><text x="54" y="36" fill="#203349" font-size="15" font-family="Arial,sans-serif" font-weight="650">Data quality</text></g><g transform="translate(266 227)"><rect width="177" height="62" rx="12" fill="#F3F7FC" stroke="#E1E9F2"/><g transform="translate(28 30) scale(.62)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0-17 18-7 0 3-18-7ZM-18 3 0 13 18 3M-18 12 0 22 18 12"/></g></g><text x="54" y="36" fill="#203349" font-size="15" font-family="Arial,sans-serif" font-weight="650">Analytics models</text></g>
+
 </svg>
