@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/nazirreally/data-engineering-lab"><img src="assets/project-retail-etl.svg" width="49%" alt="Retail Orders ETL — featured data engineering project" /></a>
-  <a href="https://github.com/nazirreally/IBM-Data-Analyst-Course"><img src="assets/project-ibm-analytics.svg" width="49%" alt="IBM Data Analyst Course — learning repository" /></a>
+  <a href="https://github.com/nazirreally/data-engineering-lab/tree/main/projects/03-nvda-insights-studio"><img src="assets/project-nvda-insights.svg" width="49%" alt="NVDA Insights Studio — interactive NVIDIA historical stock analytics dashboard" /></a>
 </p>
 
 ### 🏗️ [Retail Orders ETL · Data Engineering Lab](https://github.com/nazirreally/data-engineering-lab)
@@ -82,11 +82,13 @@ A working **Python + SQLite batch ETL** that reads retail orders from CSV, valid
 
 **Engineering details:** idempotent upserts, data-quality checks, dimension/fact tables, revenue reconciliation and automated tests.
 
-### 📊 [IBM Data Analyst Course](https://github.com/nazirreally/IBM-Data-Analyst-Course)
+### 📈 [NVDA Insights Studio · Interactive Analytics Dashboard](https://github.com/nazirreally/data-engineering-lab/tree/main/projects/03-nvda-insights-studio)
 
-Repository of data analyst learning and coursework materials.
+A working **NVIDIA historical-price analytics dashboard** with CSV import, trend charts, period filters, volatility and drawdown metrics, data-quality checks and downloadable reports. The included historical sample uses a separately attributed source; you can import the [Kaggle NVDA dataset](https://www.kaggle.com/datasets/caesarmario/nvidia-stock-historical-price) directly in the interface.
 
-**More portfolio projects are in development.** I prefer linking real, documented work rather than presenting planned projects as finished.
+`JavaScript` · `HTML/CSS` · `SVG` · `CSV Analytics` · `Node Tests`
+
+**Also building:** [HTTP Log Analytics & Monitoring Engine](https://github.com/nazirreally/data-engineering-lab/tree/main/projects/02-log-analytics).
 
 ---
 
