@@ -1,48 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="376" viewBox="0 0 1200 376" role="img" aria-labelledby="t d">
-<title id="t">Nazir Ali Khan — Software Engineer, Data Engineering and Analytics</title>
-<desc id="d">Dark navy engineering-themed header with cyan and blue accents, data pipeline nodes, and the name Nazir Ali Khan.</desc>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset=".62" stop-color="#0E2340"/><stop offset="1" stop-color="#102946"/></linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#71E0D1"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#2477B7" stop-opacity=".45"/><stop offset="1" stop-color="#2477B7" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse"><circle cx="1.8" cy="1.8" r="1" fill="#A4D4FC" fill-opacity=".13"/></pattern>
-<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity=".3"/></filter>
-</defs>
-<rect width="1200" height="376" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="376" rx="24" fill="url(#dots)"/>
-<circle cx="936" cy="158" r="287" fill="url(#glow)"/>
-<path d="M48 50h45" stroke="#6DD9D5" stroke-width="4" stroke-linecap="round"/>
-<circle cx="105" cy="50" r="4" fill="#6DD9D5"/>
-<text x="48" y="88" fill="#79B9E9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">WELCOME TO MY GITHUB</text>
-<text x="44" y="169" fill="#F4F9FF" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" letter-spacing="1">NAZIR ALI KHAN</text>
-<text x="48" y="211" fill="#C4D9EB" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="500">Software Engineer  <tspan fill="#64C9E6">/</tspan>  Data Engineering &amp; Analytics</text>
-<rect x="48" y="242" width="526" height="2" fill="url(#accent)" opacity=".8"/>
-<text x="49" y="277" fill="#93B2D0" font-family="Arial,Helvetica,sans-serif" font-size="17">I build, test and improve data-driven systems.</text>
-<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1">
-<rect x="48" y="308" width="148" height="35" rx="17.5" fill="#153753" stroke="#2A739A"/>
-<text x="122" y="330" text-anchor="middle" fill="#8AD9FF">PYTHON  ·  SQL</text>
-<rect x="208" y="308" width="149" height="35" rx="17.5" fill="#173D4C" stroke="#318E8B"/>
-<text x="283" y="330" text-anchor="middle" fill="#92E8D8">DATA PIPELINES</text>
-<rect x="369" y="308" width="170" height="35" rx="17.5" fill="#1D2F55" stroke="#4C6EB3"/>
-<text x="454" y="330" text-anchor="middle" fill="#BBCDFF">KARACHI, PAKISTAN</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="374" viewBox="0 0 1200 374" role="img" aria-label="Minimal blue and white data engineering illustration">
+<rect width="1200" height="374" rx="16" fill="#FFFFFF"/>
+
+ <g transform="translate(81 87)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="4.25"><circle r="17" stroke-dasharray="8 5" stroke-width="6.8"/><circle r="6.538461538461538" fill="#fff" stroke="none"/></g><g transform="translate(445 75)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="4.25"><circle r="17" stroke-dasharray="8 5" stroke-width="6.8"/><circle r="6.538461538461538" fill="#fff" stroke="none"/></g><g transform="translate(485 282)" opacity=".7" fill="none" stroke="#E5EBF1" stroke-width="6"><circle r="24" stroke-dasharray="8 5" stroke-width="9.6"/><circle r="9.23076923076923" fill="#fff" stroke="none"/></g>
+ <path d="M38 46h79" stroke="#1764D9" stroke-width="4" stroke-linecap="round"/>
+ <text x="40" y="34" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#68788B">WELCOME TO MY GITHUB</text>
+ <g><rect x="118" y="48" width="241" height="126" rx="10" fill="white" stroke="#D6E2EF" stroke-width="2"/><path d="M119 58Q119 49 128 49H349Q358 49 358 58V72H119Z" fill="#1764D9"/><circle cx="343" cy="60" r="2.5" fill="#FFFFFF"/><circle cx="333" cy="60" r="2.5" fill="#FFFFFF"/><circle cx="323" cy="60" r="2.5" fill="#FFFFFF"/><g stroke="#B5C4D5" stroke-width="4" stroke-linecap="round"><path d="M136 88h62M136 102h111M136 116h80M136 130h127M136 144h93"/></g><path d="M136 158h133" stroke="#1764D9" stroke-width="4" stroke-linecap="round"/></g>
+ <g><rect x="244" y="113" width="228" height="116" rx="10" fill="white" stroke="#D6E2EF" stroke-width="2"/><path d="M245 123Q245 114 254 114H462Q471 114 471 123V137H245Z" fill="#1764D9"/><circle cx="456" cy="125" r="2.5" fill="#FFFFFF"/><circle cx="446" cy="125" r="2.5" fill="#FFFFFF"/><circle cx="436" cy="125" r="2.5" fill="#FFFFFF"/><g transform="translate(280 174)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="0" cy="-11" rx="14" ry="6"/><path d="M-14-11v24c0 8 28 8 28 0v-24M-14-1c0 8 28 8 28 0M-14 9c0 8 28 8 28 0"/></g></g><path d="M302 174h37m-7-7 7 7-7 7" stroke="#1764D9" stroke-width="3" fill="none" stroke-linecap="round"/><g transform="translate(357 174)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0-17 18-7 0 3-18-7ZM-18 3 0 13 18 3M-18 12 0 22 18 12"/></g></g><path d="M378 174h27m-7-7 7 7-7 7" stroke="#1764D9" stroke-width="3" fill="none"/><g transform="translate(428 174)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-20 19h40M-13 14V4M0 14v-17M13 14v-27"/></g></g></g>
+ <circle cx="176" cy="279" r="90" fill="#F3F7FC"/>
+ <g transform="translate(163 251) scale(0.78)">
+ <path d="M-52 102Q-54 48-13 36Q36 26 57 73L71 128H-53Z" fill="#8DB9F3" stroke="#3F85DA" stroke-width="2"/>
+ <path d="M-25 73L-8 95L12 74M-8 95v31" fill="none" stroke="#4D8FDF" stroke-width="3" stroke-linecap="round"/>
+ <path d="M-46 9Q-54-25-30-43Q-13-68 17-54Q48-57 49-20L39 27L20 47L-23 40Z" fill="#233747"/>
+ <ellipse cx="3" cy="0" rx="37" ry="44" fill="#E4AC77"/>
+ <path d="M-34-7Q-41-53-7-54Q30-64 42-24L30-11Q11-28-2-24Q-17-5-34-7Z" fill="#213447"/>
+ <path d="M-34 10q-16-11-16 3q1 12 16 13M37 11q14-9 13 4q-3 12-12 11" fill="#E4AC77"/>
+ <g stroke="#283F4C" stroke-width="3" fill="none"><circle cx="-13" cy="7" r="13"/><circle cx="21" cy="7" r="13"/><path d="M0 7h8M-28 5h-10M35 5h10"/></g>
+ <path d="M-5 30q13 9 24-1" fill="none" stroke="#7E4A35" stroke-width="2.5" stroke-linecap="round"/>
+ <path d="M11 49v16" stroke="#E4AC77" stroke-width="13" stroke-linecap="round"/>
 </g>
-<g filter="url(#shadow)">
-<rect x="681" y="61" width="461" height="258" rx="22" fill="#102238" stroke="#3B5875" stroke-width="1.8"/>
-<rect x="681" y="61" width="461" height="43" rx="21" fill="#1B334D"/>
-<rect x="681" y="83" width="461" height="21" fill="#1B334D"/>
-<circle cx="709" cy="83" r="5" fill="#F37D86"/><circle cx="727" cy="83" r="5" fill="#F4C96D"/><circle cx="745" cy="83" r="5" fill="#64D8B6"/>
-<text x="775" y="88" fill="#AAC8E0" font-family="monospace" font-size="13">pipeline / architecture</text>
-<g fill="none" stroke="#5AAFE5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-<path d="M759 185H801M886 185H924M1011 185h44"/>
-</g>
-<g font-family="Arial,Helvetica,sans-serif" font-weight="700">
-<rect x="709" y="141" width="77" height="89" rx="13" fill="#173956" stroke="#3976A3"/><circle cx="747.5" cy="171" r="15" fill="#245777"/><path d="M738 171h19m-19-6h19m-19 12h19" stroke="#93D8FF" stroke-width="2"/><text x="747" y="211" font-size="12" fill="#D7EBFA" text-anchor="middle">INGEST</text>
-<rect x="802" y="141" width="98" height="89" rx="13" fill="#173B4B" stroke="#348E8C"/><circle cx="851" cy="171" r="15" fill="#1F6064"/><path d="m843 171 5 5 10-12" fill="none" stroke="#9DEFE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="851" y="211" font-size="12" fill="#E4F9F1" text-anchor="middle">VALIDATE</text>
-<rect x="915" y="141" width="103" height="89" rx="13" fill="#252B56" stroke="#6C70BA"/><circle cx="965" cy="171" r="15" fill="#383F80"/><path d="m958 161 8 9-8 10m14-19-8 9 8 10" stroke="#C4CBFF" stroke-width="2.5" fill="none" stroke-linecap="round"/><text x="965" y="211" font-size="12" fill="#E3E6FF" text-anchor="middle">MODEL</text>
-<rect x="1033" y="141" width="83" height="89" rx="13" fill="#173956" stroke="#3976A3"/><circle cx="1075" cy="171" r="15" fill="#245777"/><path d="M1067 179v-5m7 5v-13m7 13v-18" stroke="#93D8FF" stroke-width="4" stroke-linecap="round"/><text x="1075" y="211" font-size="12" fill="#D7EBFA" text-anchor="middle">INSIGHT</text>
-</g>
-<path d="M714 265h408" stroke="#2D4963" stroke-width="1.5"/>
-<circle cx="731" cy="289" r="5" fill="#71E0D1"/><text x="746" y="294" fill="#AAC8DE" font-family="monospace" font-size="13">reliable data  →  useful decisions</text>
-</g>
-<rect x="1" y="1" width="1198" height="374" rx="23" fill="none" stroke="#3B5772" stroke-opacity=".7" stroke-width="2"/>
+ <path d="M215 286h201l-20 62H231Z" fill="#9DAAB8" stroke="#75869A" stroke-width="2"/>
+ <path d="M212 349h188" stroke="#1764D9" stroke-width="8" stroke-linecap="round"/>
+ <path d="M38 357h442" stroke="#1764D9" stroke-width="8" stroke-linecap="round"/>
+ <text x="548" y="120" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" fill="#1764D9">Nazir Ali Khan</text>
+ <text x="551" y="162" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="650" fill="#203349">Software Engineer</text>
+ <text x="551" y="195" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#68788B">Data Engineering &amp; Analytics</text>
+ <path d="M551 218h582" stroke="#E7ECF2" stroke-width="2"/>
+ <g transform="translate(593 265)"><rect x="-43" y="-29" width="86" height="78" rx="13" fill="#F2F7FE"/><g transform="translate(0 -3) scale(.78)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="0" cy="-11" rx="14" ry="6"/><path d="M-14-11v24c0 8 28 8 28 0v-24M-14-1c0 8 28 8 28 0M-14 9c0 8 28 8 28 0"/></g></g><text x="0" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="1" font-weight="700" fill="#203349">DATA</text></g><path d="M647 269h18m-6-6 6 6-6 6" fill="none" stroke="#A9B8C8" stroke-width="2"/><g transform="translate(749 265)"><rect x="-43" y="-29" width="86" height="78" rx="13" fill="#F2F7FE"/><g transform="translate(0 -3) scale(.78)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle r="18"/><path d="m-9 0 7 7L11-8"/></g></g><text x="0" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="1" font-weight="700" fill="#203349">QUALITY</text></g><path d="M803 269h18m-6-6 6 6-6 6" fill="none" stroke="#A9B8C8" stroke-width="2"/><g transform="translate(905 265)"><rect x="-43" y="-29" width="86" height="78" rx="13" fill="#F2F7FE"/><g transform="translate(0 -3) scale(.78)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0-17 18-7 0 3-18-7ZM-18 3 0 13 18 3M-18 12 0 22 18 12"/></g></g><text x="0" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="1" font-weight="700" fill="#203349">MODEL</text></g><path d="M959 269h18m-6-6 6 6-6 6" fill="none" stroke="#A9B8C8" stroke-width="2"/><g transform="translate(1061 265)"><rect x="-43" y="-29" width="86" height="78" rx="13" fill="#F2F7FE"/><g transform="translate(0 -3) scale(.78)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-20 19h40M-13 14V4M0 14v-17M13 14v-27"/></g></g><text x="0" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="1" font-weight="700" fill="#203349">INSIGHT</text></g>
+ <text x="551" y="359" font-family="Arial,sans-serif" font-size="16" font-style="italic" fill="#68788B">Building reliable data pipelines and useful analytics.</text>
+
 </svg>
