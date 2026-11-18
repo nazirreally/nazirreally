@@ -1,80 +1,131 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Nazir Ali Khan — Software Engineer focused on Data Engineering and Analytics" />
+</p>
 
-# Hi, I'm Nazir Ali Khan 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2700&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer;Data+Engineering+%26+Analytics;Building+Reliable+Data+Pipelines;Learning.+Building.+Improving." alt="Software Engineer — Data Engineering and Analytics" />
+</p>
 
-### Software Engineer · Data Engineering Enthusiast
-
-**Turning messy data into reliable, meaningful data systems.**
-
-![Data Engineering banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:184E77,100:58A6FF&height=130&section=header&text=BUILD%20%7C%20PIPELINE%20%7C%20SCALE&fontSize=22&fontColor=ffffff&animation=fadeIn)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nazirreally&label=Profile%20views&color=2472a3&style=flat)](https://github.com/nazirreally)
-[![GitHub](https://img.shields.io/badge/GitHub-nazirreally-181717?style=flat&logo=github)](https://github.com/nazirreally)
-
-</div>
+<p align="center">
+  <a href="https://github.com/nazirreally?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nazirreally&label=PROFILE+VIEWS&color=2B7BB9&style=for-the-badge" alt="GitHub profile views" />
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-15344F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Karachi, Pakistan" />
+</p>
 
 ---
 
-## 👨‍💻 A Little About Me
+<table>
+<tr>
+<td valign="top" width="59%">
 
-- 🎓 **MS Computer Science**, NED University
-- 💻 Software Engineer based in **Karachi, Pakistan**
-- 🔍 Exploring **data engineering**, from ingestion and transformation to orchestration and warehousing
-- 🧩 Interested in building reproducible, maintainable data pipelines
-- 🚀 Growing a portfolio of hands-on, end-to-end engineering projects
+### 👨‍💻 About me
 
-## ⚙️ Data Engineering Toolkit & Learning Roadmap
+I'm **Nazir Ali Khan**, a software engineer based in **Karachi, Pakistan**, with a growing focus on **data engineering** and **data analytics**.
 
-<div align="center">
+- 🔧 Building reproducible data pipelines with Python and SQL.
+- 🧪 Interested in automated testing, data quality and dependable systems.
+- 📊 Turning raw data into useful, analysis-ready datasets.
+- 🌱 Learning modern tools for orchestration, transformations and cloud data workflows.
+- 🎯 Developing a practical portfolio for **Data Engineer** and **Data Analyst** roles.
+- 🎓 Computer Science graduate studies at **NED University**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+</td>
+<td valign="middle" width="41%">
+  <img src="assets/data-focus.svg" width="100%" alt="Current focus: data ingestion, quality checks and analytics models" />
+</td>
+</tr>
+</table>
 
-</div>
+---
 
-> These technologies represent the tools I'm using, exploring, or planning to learn — not a claim of expertise in each one.
+## ⚡ Languages, Tools & Technologies
 
-## 🏗️ How I Think About Data
+<p align="center"><b>Core tools and hands-on project work</b></p>
 
-![My data engineering workflow — from sources and ingestion through validation, ELT, warehousing and analytics](assets/data-pipeline.svg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode&perline=8&theme=dark" alt="Python, SQLite, Git, GitHub and VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python%20unittest-356DA8?style=for-the-badge&logo=python&logoColor=white" alt="Python unittest" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Quality-227D91?style=for-the-badge" alt="ETL and data quality" />
+</p>
+
+<p align="center"><b>Exploring / on my learning roadmap</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+> The tools above are split between hands-on work and my learning roadmap; I don't claim professional proficiency in every listed technology.
+
+---
+
+## 🚀 Featured Work
+
+<p align="center">
+  <a href="https://github.com/nazirreally/data-engineering-lab"><img src="assets/project-retail-etl.svg" width="49%" alt="Retail Orders ETL — featured data engineering project" /></a>
+  <a href="https://github.com/nazirreally/IBM-Data-Analyst-Course"><img src="assets/project-ibm-analytics.svg" width="49%" alt="IBM Data Analyst Course — learning repository" /></a>
+</p>
+
+### 🏗️ [Retail Orders ETL · Data Engineering Lab](https://github.com/nazirreally/data-engineering-lab)
+
+A working **Python + SQLite batch ETL** that reads retail orders from CSV, validates records, writes rejected rows to an audit file, and loads an analytics-friendly relational model.
+
+`Python` · `SQL` · `SQLite` · `unittest` · `GitHub Actions`
+
+**Engineering details:** idempotent upserts, data-quality checks, dimension/fact tables, revenue reconciliation and automated tests.
+
+### 📊 [IBM Data Analyst Course](https://github.com/nazirreally/IBM-Data-Analyst-Course)
+
+Repository of data analyst learning and coursework materials.
+
+**More portfolio projects are in development.** I prefer linking real, documented work rather than presenting planned projects as finished.
+
+---
+
+## 🏗️ My Data Engineering Approach
+
+<p align="center">
+  <img src="assets/data-pipeline.svg" width="100%" alt="Data sources to ingestion, validation, ELT transformation, warehousing and analytics" />
+</p>
 
 <p align="center"><sub>Collect → Ingest → Validate → Transform → Serve → Analyze</sub></p>
 
-## 🚀 Projects in the Pipeline
+---
 
-| Project idea | What it will demonstrate |
+## 🧭 What I'm Building Next
+
+| Project direction | Focus |
 | :--- | :--- |
-| 🐍 Python + PostgreSQL ETL | Data extraction, transformation and loading |
-| 🔄 Airflow Workflow | Scheduling, monitoring and orchestration |
-| 🧪 Data Quality Framework | Validation, testing and reliable pipelines |
-| ☁️ Cloud Data Pipeline | Deploying a reproducible end-to-end system |
-
-*Project links will appear here as they're built and published.*
-
-## 🎯 Current Goals
-
-- [ ] Publish my first end-to-end ETL project
-- [ ] Add tests, documentation and reproducible setup instructions
-- [ ] Build an orchestrated pipeline with Apache Airflow
-- [ ] Explore distributed processing with Apache Spark
-- [ ] Ship a cloud-focused data engineering project
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazirreally&show_icons=true&theme=github_dark&hide_border=true)
+| 🐘 **PostgreSQL + Docker ETL** | Production-style database setup and reliable batch ingestion |
+| 🔁 **Airflow-orchestrated pipeline** | Scheduling, retries, monitoring and reproducible tasks |
+| 🧪 **Data quality framework** | Validation rules, testing, rejected records and auditability |
+| 📈 **Analytics dashboard** | SQL-based metrics, data storytelling and decision-ready visuals |
+| ☁️ **Cloud data pipeline** | Managed storage, deployment and observability |
 
 ---
 
-### ✨ Learn deeply. Build thoughtfully. Engineer for scale.
+## 📊 GitHub Activity
 
-*Thanks for visiting!*
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazirreally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=63D7C4" alt="Nazir's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nazirreally&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=63D7C4" alt="Nazir's GitHub contribution streak" />
+</p>
 
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirreally&bg_color=0d1117&color=9ab6d2&line=58a6ff&point=63d7c4&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Nazir's GitHub contribution activity graph" />
+</p>
+
+---
+
+<p align="center"><b>Build thoughtfully · Test thoroughly · Learn continuously</b></p>
+<p align="center"><sub>Thanks for visiting — explore my <a href="https://github.com/nazirreally?tab=repositories">repositories</a> to follow the work.</sub></p>
