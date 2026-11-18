@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="255" viewBox="0 0 540 255" role="img" aria-labelledby="t">
-<title id="t">IBM Data Analyst Course</title>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E1C30"/><stop offset="1" stop-color="#173A4E"/></linearGradient></defs>
-<rect width="540" height="255" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="538" height="253" rx="19" fill="none" stroke="#365576" stroke-width="2"/>
-<path d="M23 21h44" stroke="#79B8FF" stroke-width="4" stroke-linecap="round"/>
-<text x="24" y="47" fill="#79B8FF" font-size="12" font-family="Arial,sans-serif" letter-spacing="2.3" font-weight="700">LEARNING REPOSITORY  /  02</text>
-<text x="24" y="91" fill="#F1F7FF" font-size="29" font-family="Arial,sans-serif" font-weight="800">IBM Data Analyst Course</text>
-<text x="25" y="120" fill="#B5CCE3" font-size="16" font-family="Arial,sans-serif">Data analysis coursework and study materials</text>
-<g transform="translate(52 151)"><path d="M0 83H398" stroke="#3B5876" stroke-width="2"/><g fill="#79B8FF" opacity=".9"><rect x="14" y="43" width="44" height="40" rx="6"/><rect x="84" y="21" width="44" height="62" rx="6"/><rect x="154" y="34" width="44" height="49" rx="6"/><rect x="224" y="4" width="44" height="79" rx="6"/><rect x="294" y="17" width="44" height="66" rx="6"/></g><path d="m40 27 70-11 70 14 69-26 69 10" stroke="#E4F6FC" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
-<text x="24" y="243" fill="#83A6C7" font-size="12" font-family="monospace">ANALYTICS  /  LEARNING</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="255" viewBox="0 0 540 255" role="img" aria-label="Minimal blue and white data engineering illustration">
+<rect width="540" height="255" rx="16" fill="#FFFFFF"/>
+
+ <rect x="12" y="13" width="516" height="228" rx="14" fill="#FFFFFF" stroke="#DFE7F1" stroke-width="2"/>
+ <path d="M30 34h48" stroke="#1764D9" stroke-width="3.5" stroke-linecap="round"/>
+ <text x="32" y="56" fill="#1764D9" font-family="Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1.8">LEARNING REPOSITORY</text>
+ <text x="32" y="90" fill="#203349" font-family="Arial,sans-serif" font-size="24" font-weight="760">IBM Data Analyst Course</text>
+ <text x="32" y="115" fill="#68788B" font-family="Arial,sans-serif" font-size="14">Coursework and analytics practice</text>
+ <g transform="translate(69 171)"><rect x="-45" y="-34" width="90" height="75" rx="12" fill="#F2F7FD"/><g transform="translate(0 -7) scale(.76)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0-17 18-7 0 3-18-7ZM-18 3 0 13 18 3M-18 12 0 22 18 12"/></g></g><text x="0" y="30" font-family="Arial,sans-serif" font-size="11" font-weight="650" fill="#203349" text-anchor="middle">Learn</text></g><path d="M125 170h17m-6-6 6 6-6 6" stroke="#A6B6C7" fill="none" stroke-width="2.2"/><g transform="translate(237 171)"><rect x="-45" y="-34" width="90" height="75" rx="12" fill="#F2F7FD"/><g transform="translate(0 -7) scale(.76)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle r="18"/><path d="m-9 0 7 7L11-8"/></g></g><text x="0" y="30" font-family="Arial,sans-serif" font-size="11" font-weight="650" fill="#203349" text-anchor="middle">Practice</text></g><path d="M293 170h17m-6-6 6 6-6 6" stroke="#A6B6C7" fill="none" stroke-width="2.2"/><g transform="translate(405 171)"><rect x="-45" y="-34" width="90" height="75" rx="12" fill="#F2F7FD"/><g transform="translate(0 -7) scale(.76)"><g fill="none" stroke="#1764D9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-20 19h40M-13 14V4M0 14v-17M13 14v-27"/></g></g><text x="0" y="30" font-family="Arial,sans-serif" font-size="11" font-weight="650" fill="#203349" text-anchor="middle">Analyze</text></g>
+ <text x="31" y="229" font-family="Arial,sans-serif" font-size="12.5" fill="#68788B">Data analysis  ·  Learning repository</text>
+
 </svg>
