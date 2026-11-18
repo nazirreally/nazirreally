@@ -42,24 +42,9 @@
 
 ## 🏗️ How I Think About Data
 
-```text
-   APIs / Files / Databases
-              │
-              ▼
-      Ingestion & Loading
-              │
-              ▼
-    Validation & Data Quality
-              │
-              ▼
-       Transformation (ELT)
-              │
-              ▼
-     Warehouse / Data Marts
-              │
-              ▼
-       Analytics & Insights
-```
+![My data engineering workflow — from sources and ingestion through validation, ELT, warehousing and analytics](assets/data-pipeline.svg)
+
+<p align="center"><sub>Collect → Ingest → Validate → Transform → Serve → Analyze</sub></p>
 
 ## 🚀 Projects in the Pipeline
 
