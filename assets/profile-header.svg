@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="376" viewBox="0 0 1200 376" role="img" aria-labelledby="t d">
+<title id="t">Nazir Ali Khan — Software Engineer, Data Engineering and Analytics</title>
+<desc id="d">Dark navy engineering-themed header with cyan and blue accents, data pipeline nodes, and the name Nazir Ali Khan.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset=".62" stop-color="#0E2340"/><stop offset="1" stop-color="#102946"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#71E0D1"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#2477B7" stop-opacity=".45"/><stop offset="1" stop-color="#2477B7" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse"><circle cx="1.8" cy="1.8" r="1" fill="#A4D4FC" fill-opacity=".13"/></pattern>
+<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity=".3"/></filter>
+</defs>
+<rect width="1200" height="376" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="376" rx="24" fill="url(#dots)"/>
+<circle cx="936" cy="158" r="287" fill="url(#glow)"/>
+<path d="M48 50h45" stroke="#6DD9D5" stroke-width="4" stroke-linecap="round"/>
+<circle cx="105" cy="50" r="4" fill="#6DD9D5"/>
+<text x="48" y="88" fill="#79B9E9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">WELCOME TO MY GITHUB</text>
+<text x="44" y="169" fill="#F4F9FF" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" letter-spacing="1">NAZIR ALI KHAN</text>
+<text x="48" y="211" fill="#C4D9EB" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="500">Software Engineer  <tspan fill="#64C9E6">/</tspan>  Data Engineering &amp; Analytics</text>
+<rect x="48" y="242" width="526" height="2" fill="url(#accent)" opacity=".8"/>
+<text x="49" y="277" fill="#93B2D0" font-family="Arial,Helvetica,sans-serif" font-size="17">I build, test and improve data-driven systems.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+<rect x="48" y="308" width="148" height="35" rx="17.5" fill="#153753" stroke="#2A739A"/>
+<text x="122" y="330" text-anchor="middle" fill="#8AD9FF">PYTHON  ·  SQL</text>
+<rect x="208" y="308" width="149" height="35" rx="17.5" fill="#173D4C" stroke="#318E8B"/>
+<text x="283" y="330" text-anchor="middle" fill="#92E8D8">DATA PIPELINES</text>
+<rect x="369" y="308" width="170" height="35" rx="17.5" fill="#1D2F55" stroke="#4C6EB3"/>
+<text x="454" y="330" text-anchor="middle" fill="#BBCDFF">KARACHI, PAKISTAN</text>
+</g>
+<g filter="url(#shadow)">
+<rect x="681" y="61" width="461" height="258" rx="22" fill="#102238" stroke="#3B5875" stroke-width="1.8"/>
+<rect x="681" y="61" width="461" height="43" rx="21" fill="#1B334D"/>
+<rect x="681" y="83" width="461" height="21" fill="#1B334D"/>
+<circle cx="709" cy="83" r="5" fill="#F37D86"/><circle cx="727" cy="83" r="5" fill="#F4C96D"/><circle cx="745" cy="83" r="5" fill="#64D8B6"/>
+<text x="775" y="88" fill="#AAC8E0" font-family="monospace" font-size="13">pipeline / architecture</text>
+<g fill="none" stroke="#5AAFE5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M759 185H801M886 185H924M1011 185h44"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="700">
+<rect x="709" y="141" width="77" height="89" rx="13" fill="#173956" stroke="#3976A3"/><circle cx="747.5" cy="171" r="15" fill="#245777"/><path d="M738 171h19m-19-6h19m-19 12h19" stroke="#93D8FF" stroke-width="2"/><text x="747" y="211" font-size="12" fill="#D7EBFA" text-anchor="middle">INGEST</text>
+<rect x="802" y="141" width="98" height="89" rx="13" fill="#173B4B" stroke="#348E8C"/><circle cx="851" cy="171" r="15" fill="#1F6064"/><path d="m843 171 5 5 10-12" fill="none" stroke="#9DEFE0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="851" y="211" font-size="12" fill="#E4F9F1" text-anchor="middle">VALIDATE</text>
+<rect x="915" y="141" width="103" height="89" rx="13" fill="#252B56" stroke="#6C70BA"/><circle cx="965" cy="171" r="15" fill="#383F80"/><path d="m958 161 8 9-8 10m14-19-8 9 8 10" stroke="#C4CBFF" stroke-width="2.5" fill="none" stroke-linecap="round"/><text x="965" y="211" font-size="12" fill="#E3E6FF" text-anchor="middle">MODEL</text>
+<rect x="1033" y="141" width="83" height="89" rx="13" fill="#173956" stroke="#3976A3"/><circle cx="1075" cy="171" r="15" fill="#245777"/><path d="M1067 179v-5m7 5v-13m7 13v-18" stroke="#93D8FF" stroke-width="4" stroke-linecap="round"/><text x="1075" y="211" font-size="12" fill="#D7EBFA" text-anchor="middle">INSIGHT</text>
+</g>
+<path d="M714 265h408" stroke="#2D4963" stroke-width="1.5"/>
+<circle cx="731" cy="289" r="5" fill="#71E0D1"/><text x="746" y="294" fill="#AAC8DE" font-family="monospace" font-size="13">reliable data  →  useful decisions</text>
+</g>
+<rect x="1" y="1" width="1198" height="374" rx="23" fill="none" stroke="#3B5772" stroke-opacity=".7" stroke-width="2"/>
+</svg>
