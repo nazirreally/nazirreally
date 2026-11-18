@@ -70,25 +70,21 @@
 ## 🚀 Featured Work
 
 <p align="center">
-  <a href="https://github.com/nazirreally/data-engineering-lab"><img src="assets/project-retail-etl.svg" width="49%" alt="Retail Orders ETL — featured data engineering project" /></a>
-  <a href="https://github.com/nazirreally/data-engineering-lab/tree/main/projects/03-nvda-insights-studio"><img src="assets/project-nvda-insights.svg" width="49%" alt="NVDA Insights Studio — interactive NVIDIA historical stock analytics dashboard" /></a>
+  <a href="https://github.com/nazirreally/nvda-insights-studio"><img src="assets/project-nvda-insights.svg" width="49%" alt="NVDA Insights Studio — interactive NVIDIA stock analytics dashboard" /></a>
+  <a href="https://github.com/nazirreally/netflix-pakistan-plotly"><img src="assets/project-netflix-pakistan.svg" width="49%" alt="Netflix Pakistan — historical content analysis with Plotly" /></a>
 </p>
 
-### 🏗️ [Retail Orders ETL · Data Engineering Lab](https://github.com/nazirreally/data-engineering-lab)
+### 📈 [NVDA Insights Studio · Interactive Stock Analytics](https://github.com/nazirreally/nvda-insights-studio)
 
-A working **Python + SQLite batch ETL** that reads retail orders from CSV, validates records, writes rejected rows to an audit file, and loads an analytics-friendly relational model.
-
-`Python` · `SQL` · `SQLite` · `unittest` · `GitHub Actions`
-
-**Engineering details:** idempotent upserts, data-quality checks, dimension/fact tables, revenue reconciliation and automated tests.
-
-### 📈 [NVDA Insights Studio · Interactive Analytics Dashboard](https://github.com/nazirreally/data-engineering-lab/tree/main/projects/03-nvda-insights-studio)
-
-A working **NVIDIA historical-price analytics dashboard** with CSV import, trend charts, period filters, volatility and drawdown metrics, data-quality checks and downloadable reports. The included historical sample uses a separately attributed source; you can import the [Kaggle NVDA dataset](https://www.kaggle.com/datasets/caesarmario/nvidia-stock-historical-price) directly in the interface.
+A **standalone NVIDIA historical-price dashboard** featuring CSV import, stock-price explorer, moving averages, return distribution, period filters, volatility, drawdown, data-quality checks and downloadable reports. The bundled history is separately attributed and is not a live feed or the [Kaggle dataset](https://www.kaggle.com/datasets/caesarmario/nvidia-stock-historical-price), which can be imported into the app.
 
 `JavaScript` · `HTML/CSS` · `SVG` · `CSV Analytics` · `Node Tests`
 
-**Also building:** [HTTP Log Analytics & Monitoring Engine](https://github.com/nazirreally/data-engineering-lab/tree/main/projects/02-log-analytics).
+### 🎬 [Netflix Pakistan · Plotly Data Storytelling](https://github.com/nazirreally/netflix-pakistan-plotly)
+
+A reproducible **Python + Plotly + Streamlit** investigation of Pakistan-linked production credits in Netflix's historical global catalogue. Includes interactive charts, a filterable dashboard, an EDA notebook, verified findings and automated tests. This analyzes production-country metadata, **not viewership or regional streaming availability**.
+
+`Python` · `Pandas` · `Plotly` · `Streamlit` · `Jupyter` · `Pytest`
 
 ---
 
