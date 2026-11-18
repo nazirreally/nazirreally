@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nazirreally?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nazirreally&label=PROFILE+VIEWS&color=2B7BB9&style=for-the-badge" alt="GitHub profile views" />
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-15344F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Karachi, Pakistan" />
+  <a href="https://github.com/nazirreally?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-1764D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nazirreally&label=PROFILE+VIEWS&color=1764D9&style=for-the-badge" alt="GitHub profile views" />
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-5F7088?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Karachi, Pakistan" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 <p align="center"><b>Core tools and hands-on project work</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode&perline=8&theme=dark" alt="Python, SQLite, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode&perline=8&theme=light" alt="Python, SQLite, Git, GitHub and VS Code" />
 </p>
 
 <p align="center">
@@ -115,12 +115,12 @@ Repository of data analyst learning and coursework materials.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazirreally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=63D7C4" alt="Nazir's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=nazirreally&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=63D7C4" alt="Nazir's GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazirreally&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1764D9&text_color=203349&icon_color=1764D9" alt="Nazir's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nazirreally&theme=default&hide_border=true&background=FFFFFF&ring=1764D9&fire=1764D9" alt="Nazir's GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirreally&bg_color=0d1117&color=9ab6d2&line=58a6ff&point=63d7c4&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Nazir's GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirreally&bg_color=ffffff&color=203349&line=1764d9&point=1764d9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Nazir's GitHub contribution activity graph" />
 </p>
 
 ---
