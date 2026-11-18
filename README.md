@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Nazir Ali Khan — Software Engineer focused on Data Engineering and Analytics" />
+  <img src="assets/profile-header-light-v2.svg" width="100%" alt="Nazir Ali Khan — Software Engineer focused on Data Engineering and Analytics" />
 </p>
 
 <p align="center">
