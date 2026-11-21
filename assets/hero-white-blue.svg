@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="444" viewBox="0 0 1200 444" role="img" aria-labelledby="title desc">
+<title id="title">Nazir Ali Khan — Data Engineer and Data Analyst</title><desc id="desc">Minimalist white and blue portfolio cover with a data workflow and analytical chart.</desc>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F9FF"/><stop offset="1" stop-color="#E5F1FF"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3986F7" stop-opacity=".28"/><stop offset="1" stop-color="#3986F7" stop-opacity="0"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#C9DCF4"/></pattern>
+</defs>
+<rect width="1200" height="444" rx="22" fill="#FFFFFF"/>
+<rect x="1" y="1" width="1198" height="442" rx="21" fill="none" stroke="#D6E6F8" stroke-width="2"/>
+<rect x="0" y="0" width="12" height="444" rx="4" fill="#1765E8"/>
+<rect x="23" y="22" width="660" height="396" rx="18" fill="url(#dots)" opacity=".27"/>
+<rect x="58" y="50" width="37" height="37" rx="10" fill="#1765E8"/><text x="76.5" y="75" font-size="16" text-anchor="middle" font-weight="800" fill="#FFFFFF" font-family="Arial,sans-serif">NA</text>
+<text x="109" y="75" font-family="Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="2.6" fill="#1765E8">PORTFOLIO / 2026</text>
+<text x="58" y="157" font-family="Arial,sans-serif" font-weight="800" font-size="58" letter-spacing="-1.8" fill="#102847">Nazir Ali Khan</text>
+<text x="58" y="209" font-family="Arial,sans-serif" font-weight="750" font-size="31" fill="#1765E8">Data Engineer <tspan fill="#A7BAD1">/</tspan> Data Analyst</text>
+<rect x="58" y="234" width="72" height="5" rx="2.5" fill="#1765E8"/>
+<text x="58" y="278" font-family="Arial,sans-serif" font-size="18" fill="#526D87">Designing dependable data pipelines,</text>
+<text x="58" y="306" font-family="Arial,sans-serif" font-size="18" fill="#526D87">trusted datasets and clear analytical stories.</text>
+<rect x="58" y="341" width="116" height="32" rx="16" fill="#EBF4FF" stroke="#D9E9FD"/><text x="116" y="362" text-anchor="middle" font-size="12" font-weight="700" fill="#1765E8" letter-spacing=".5">PYTHON + SQL</text><rect x="187" y="341" width="114" height="32" rx="16" fill="#EBF4FF" stroke="#D9E9FD"/><text x="244" y="362" text-anchor="middle" font-size="12" font-weight="700" fill="#1765E8" letter-spacing=".5">SPARK + DBT</text><rect x="314" y="341" width="112" height="32" rx="16" fill="#EBF4FF" stroke="#D9E9FD"/><text x="370" y="362" text-anchor="middle" font-size="12" font-weight="700" fill="#1765E8" letter-spacing=".5">ANALYTICS</text>
+<text x="58" y="408" font-size="12" font-weight="700" letter-spacing="2" font-family="Arial,sans-serif" fill="#94A7BC">BUILD  •  VALIDATE  •  EXPLAIN</text>
+<g font-family="Arial,sans-serif">
+<rect x="695" y="35" width="462" height="375" rx="22" fill="url(#panel)" stroke="#CBDEF6" stroke-width="2"/>
+<rect x="722" y="59" width="408" height="319" rx="17" fill="#FFFFFF" stroke="#E0EBF9"/>
+<rect x="744" y="79" width="9" height="9" rx="3" fill="#1765E8"/>
+<text x="766" y="88" font-size="12" font-weight="800" letter-spacing="1.5" fill="#284568">THE DATA WORKFLOW</text>
+<text x="1086" y="89" font-size="11" font-weight="700" fill="#7A94B1" text-anchor="end">v1.0</text>
+<path d="M748 105H1102" stroke="#E3EDF9"/>
+<rect x="744" y="126" width="104" height="65" rx="11" fill="#EFF6FF" stroke="#D4E7FC"/>
+<rect x="870" y="126" width="104" height="65" rx="11" fill="#EFF6FF" stroke="#D4E7FC"/>
+<rect x="996" y="126" width="107" height="65" rx="11" fill="#E6F1FF" stroke="#BAD9FF"/>
+<path d="M848 159h20m-6-5 6 5-6 5M974 159h20m-6-5 6 5-6 5" fill="none" stroke="#1765E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-size="11" font-weight="800" text-anchor="middle" fill="#1765E8">
+<text x="796" y="151">01</text><text x="796" y="175" fill="#284568">INGEST</text>
+<text x="922" y="151">02</text><text x="922" y="175" fill="#284568">MODEL</text>
+<text x="1049" y="151">03</text><text x="1049" y="175" fill="#284568">INSIGHT</text>
+</g>
+<text x="744" y="220" font-size="12" font-weight="800" fill="#355470" letter-spacing="1">ANALYTICS LAYER</text>
+<text x="1101" y="220" font-size="11" fill="#6A89A5" text-anchor="end">illustrative</text>
+<path d="M744 245H1104M744 281H1104M744 316H1104" stroke="#ECF2FA" stroke-width="1.6"/>
+<path d="M746 325 C775 318 783 301 809 306 S850 289 874 292 S914 256 945 267 S981 248 1002 257 S1039 218 1063 234 S1089 207 1102 210 V343 H746Z" fill="url(#area)"/>
+<path d="M746 325 C775 318 783 301 809 306 S850 289 874 292 S914 256 945 267 S981 248 1002 257 S1039 218 1063 234 S1089 207 1102 210" stroke="#1765E8" stroke-width="4" fill="none" stroke-linecap="round"/>
+<circle cx="1102" cy="210" r="6.5" fill="#1765E8" stroke="#FFFFFF" stroke-width="3"/>
+<text x="744" y="359" font-size="11" font-weight="700" fill="#8BA2B8">DATA QUALITY</text>
+<text x="1102" y="359" font-size="11" font-weight="800" fill="#1765E8" text-anchor="end">DECISION READY</text>
+</g></svg>
