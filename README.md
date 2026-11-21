@@ -58,7 +58,18 @@ From raw records to interactive reports and interpretable business metrics.
 
 **Dashboards:** [NVDA Insights Studio](https://github.com/nazirreally/nvda-insights-studio) ([**Live demo ↗**](https://nazirreally.github.io/nvda-insights-studio/)) explores imported and bundled historical stock prices in the browser. [Cohort Retention Lab](https://github.com/nazirreally/cohort-retention-lab) reports maturity-aware retention and cohort revenue using synthetic or imported events.
 
-**Data storytelling:** [Netflix Pakistan](https://github.com/nazirreally/netflix-pakistan-plotly) analyzes Pakistan-linked **production credits** within a historical Netflix dataset; it does not measure regional viewership or current streaming availability.
+**Data storytelling:** [Netflix Pakistan](https://github.com/nazirreally/netflix-pakistan-plotly) ([**Live demo ↗**](https://nazirreally.github.io/netflix-pakistan-plotly/)) analyzes Pakistan-linked **production credits** within a historical Netflix dataset; it does not measure regional viewership or current streaming availability.
+
+<div align="center">
+
+### 🌐 Try the live analytics dashboards
+
+<a href="https://nazirreally.github.io/nvda-insights-studio/"><img src="https://img.shields.io/badge/Launch-NVDA%20Insights%20Studio-1765E8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live NVDA historical stock dashboard" /></a>
+<a href="https://nazirreally.github.io/netflix-pakistan-plotly/"><img src="https://img.shields.io/badge/Launch-Netflix%20Pakistan%20Analysis-1765E8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Netflix Pakistan historical catalogue dashboard" /></a>
+
+<sub>GitHub Pages · Static interactive demos · Historical datasets, not live data feeds</sub>
+
+</div>
 
 ---
 
