@@ -41,7 +41,7 @@
 <p align="center"><b>Core tools and hands-on project work</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode&perline=8&theme=light" alt="Python, SQLite, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,fastapi,docker,js,git,github,vscode&perline=8&theme=light" alt="Python, SQLite, FastAPI, Docker, JavaScript, Git, GitHub and VS Code" />
 </p>
 
 <p align="center">
@@ -58,7 +58,6 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
@@ -86,6 +85,24 @@ A reproducible **Python + Plotly + Streamlit** investigation of Pakistan-linked 
 
 `Python` · `Pandas` · `Plotly` · `Streamlit` · `Jupyter` · `Pytest`
 
+### 🧰 [Schema Drift Guard · Data Contracts](https://github.com/nazirreally/schema-drift-guard)
+
+A streaming Python CLI for versioned CSV schema snapshots, drift detection, policy enforcement and machine-readable CI reports. A focused data-quality tool with zero runtime dependencies and automated tests.
+
+`Python` · `Data Contracts` · `CLI` · `unittest` · `GitHub Actions`
+
+### 📦 [Inventory Reservation API · Transactional Backend](https://github.com/nazirreally/inventory-reservation-api)
+
+A FastAPI service implementing atomic inventory holds, retry-safe requests, expiration, stock reconciliation and concurrent correctness tests. Docker Compose offers a reproducible local deployment.
+
+`FastAPI` · `SQLite WAL` · `Docker` · `Pytest` · `REST API`
+
+### 📊 [Cohort Retention Lab · Product Analytics](https://github.com/nazirreally/cohort-retention-lab)
+
+A reproducible analytics package and Streamlit dashboard for maturity-aware customer activity retention, cohort revenue, ARPU and weighted retention. Uses synthetic or imported event data; future unobserved cohort ages are not counted as zero activity.
+
+`Python` · `Pandas` · `NumPy` · `Streamlit` · `Plotly` · `Pytest`
+
 ---
 
 ## 🏗️ My Data Engineering Approach
@@ -104,7 +121,7 @@ A reproducible **Python + Plotly + Streamlit** investigation of Pakistan-linked 
 | :--- | :--- |
 | 🐘 **PostgreSQL + Docker ETL** | Production-style database setup and reliable batch ingestion |
 | 🔁 **Airflow-orchestrated pipeline** | Scheduling, retries, monitoring and reproducible tasks |
-| 🧪 **Data quality framework** | Validation rules, testing, rejected records and auditability |
+| 🧪 **Data quality integrations** | Extend Schema Drift Guard to orchestration and additional formats |
 | 📈 **Analytics dashboard** | SQL-based metrics, data storytelling and decision-ready visuals |
 | ☁️ **Cloud data pipeline** | Managed storage, deployment and observability |
 
