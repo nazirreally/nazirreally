@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/nazirreally?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-1764D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=nazirreally&label=PROFILE+VIEWS&color=1764D9&style=for-the-badge" alt="GitHub profile views" />
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-5F7088?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Karachi, Pakistan" />
 </p>
 
 ---
@@ -18,7 +17,7 @@
 <tr>
 <td valign="top" width="59%">
   <h3>👨‍💻 About me</h3>
-  <p>I'm <strong>Nazir Ali Khan</strong>, a software engineer based in <strong>Karachi, Pakistan</strong>, with a growing focus on <strong>data engineering</strong> and <strong>data analytics</strong>.</p>
+  <p>I'm <strong>Nazir Ali Khan</strong>, a software engineer with a growing focus on <strong>data engineering</strong> and <strong>data analytics</strong>.</p>
   <ul>
     <li>🔧 Building reproducible data pipelines with Python and SQL.</li>
     <li>🧪 Interested in automated testing, data quality and dependable systems.</li>
