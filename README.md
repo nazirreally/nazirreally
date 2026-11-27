@@ -1,140 +1,163 @@
 <div align="center">
 
-<img src="assets/hero-white-blue.svg" alt="Nazir Ali Khan — Data Engineer and Data Analyst, white and blue GitHub portfolio" width="100%" />
+<img src="assets/hero-white-blue.svg" alt="Nazir Ali Khan — Data Engineer and Data Analyst portfolio" width="100%" />
 
-<br/>
+**Data Engineering · Analytics & BI · Backend Systems**
 
-<a href="#data-engineering"><img src="https://img.shields.io/badge/01-Data%20Engineering-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Data Engineering projects"/></a>
-<a href="#data-analytics"><img src="https://img.shields.io/badge/02-Data%20Analytics-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Data Analytics projects"/></a>
-<a href="#scientific-analytics"><img src="https://img.shields.io/badge/03-Science%20%26%20Geo-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Scientific analytics"/></a>
-<a href="#software-engineering"><img src="https://img.shields.io/badge/04-Backend%20Engineering-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Backend engineering"/></a>
-<a href="#technology-stack"><img src="https://img.shields.io/badge/05-Technology%20Stack-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Technology stack"/></a>
+Building reproducible data products, interactive analytical applications and reliable software.
+
+[Explore projects](#selected-projects) &nbsp;·&nbsp; [Live dashboards](#live-dashboards) &nbsp;·&nbsp; [Technology stack](#technology-stack) &nbsp;·&nbsp; [All repositories](https://github.com/nazirreally?tab=repositories)
+
+<img src="https://img.shields.io/badge/Python-1765E8?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-1765E8?style=flat-square&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/R-1765E8?style=flat-square&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/JavaScript-1765E8?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Docker-1765E8?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
-<br/>
+---
 
-### About this portfolio
+## About
 
-I’m **Nazir Ali Khan**, building practical projects in **data engineering**, **data analytics / BI**, and **backend software engineering**. My work focuses on reliable ingestion, data validation, reproducible transformations, interpretable metrics, and usable analytics interfaces.
-
-The repositories below show **implemented portfolio projects and ongoing learning**, not claims of professional employment in these roles.
+I’m **Nazir Ali Khan**, building a portfolio at the intersection of data engineering, business analytics and software engineering. I focus on turning raw data into reliable models, useful interfaces and reproducible analytical results.
 
 <table>
 <tr>
-<td width="33%" valign="top"><b>🔷 Build</b><br/>ETL, lakehouse design, structured data models and testable pipelines.</td>
-<td width="33%" valign="top"><b>🔍 Validate</b><br/>Schema contracts, replay behavior, data quality and automated testing.</td>
-<td width="33%" valign="top"><b>📊 Explain</b><br/>Dashboards, time-series analysis, cohort metrics and clear storytelling.</td>
+<td width="33%" valign="top"><b>01 / Build</b><br/>Data ingestion, validation, persistence and repeatable processing.</td>
+<td width="33%" valign="top"><b>02 / Analyze</b><br/>Business metrics, scientific indicators, geospatial and time-series exploration.</td>
+<td width="33%" valign="top"><b>03 / Deliver</b><br/>Interactive dashboards, transactional APIs, automated tests and documentation.</td>
 </tr>
 </table>
 
----
+## Live dashboards
 
-<a id="data-engineering"></a>
-## 01 / Data Engineering
+Two browser-based projects can be explored without installing software.
 
-Reliable data movement, quality checks and analytical models.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://nazirreally.github.io/nvda-insights-studio/"><img src="assets/card-nvda.svg" alt="NVDA Insights Studio project card" width="100%"/></a>
+<br/><b>NVDA Insights Studio</b><br/>
+Historical price exploration, OHLC charts, moving averages, volatility, drawdown and browser-side CSV import.
+<br/><br/>
+<code>JavaScript</code> <code>HTML/CSS</code> <code>SVG</code>
+<br/><br/>
+<a href="https://nazirreally.github.io/nvda-insights-studio/"><b>Open dashboard ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/nazirreally/nvda-insights-studio">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://nazirreally.github.io/netflix-pakistan-plotly/"><img src="assets/card-netflix.svg" alt="Netflix Pakistan analytics project card" width="100%"/></a>
+<br/><b>Netflix Pakistan Analytics</b><br/>
+Interactive catalogue analysis with eight Plotly charts, regional comparisons and searchable historical records.
+<br/><br/>
+<code>Python</code> <code>Plotly</code> <code>Streamlit</code>
+<br/><br/>
+<a href="https://nazirreally.github.io/netflix-pakistan-plotly/"><b>Open dashboard ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/nazirreally/netflix-pakistan-plotly">Source</a>
+</td>
+</tr>
+</table>
 
-<div align="center">
-<a href="https://github.com/nazirreally/schema-drift-guard"><img src="assets/card-schema-drift.svg" alt="Schema Drift Guard — Python data contracts" width="49%" /></a>
-<a href="https://github.com/nazirreally/data-engineering-lab"><img src="assets/card-etl-lab.svg" alt="Data Engineering Lab — Python SQL ETL" width="49%" /></a>
-</div>
-
-**Projects:** [Schema Drift Guard](https://github.com/nazirreally/schema-drift-guard), a dependency-free CSV schema contract CLI, and [Data Engineering Lab](https://github.com/nazirreally/data-engineering-lab), a Python + SQLite batch ETL learning repository.
-
----
-
-<a id="data-analytics"></a>
-## 02 / Data Analytics
-
-From raw records to interactive reports and interpretable business metrics.
-
-<div align="center">
-<a href="https://github.com/nazirreally/nvda-insights-studio"><img src="assets/card-nvda.svg" alt="NVDA Insights Studio — historical stock price analytics" width="49%" /></a>
-<a href="https://github.com/nazirreally/cohort-retention-lab"><img src="assets/card-cohort.svg" alt="Cohort Retention Lab — customer cohort retention and revenue" width="49%" /></a>
-<a href="https://github.com/nazirreally/netflix-pakistan-plotly"><img src="assets/card-netflix.svg" alt="Netflix Pakistan — historical catalogue analytics" width="49%" /></a>
-</div>
-
-**Dashboards:** [NVDA Insights Studio](https://github.com/nazirreally/nvda-insights-studio) ([**Live demo ↗**](https://nazirreally.github.io/nvda-insights-studio/)) explores imported and bundled historical stock prices in the browser. [Cohort Retention Lab](https://github.com/nazirreally/cohort-retention-lab) reports maturity-aware retention and cohort revenue using synthetic or imported events.
-
-**Data storytelling:** [Netflix Pakistan](https://github.com/nazirreally/netflix-pakistan-plotly) ([**Live demo ↗**](https://nazirreally.github.io/netflix-pakistan-plotly/)) analyzes Pakistan-linked **production credits** within a historical Netflix dataset; it does not measure regional viewership or current streaming availability.
-
-<div align="center">
-
-### 🌐 Try the live analytics dashboards
-
-<a href="https://nazirreally.github.io/nvda-insights-studio/"><img src="https://img.shields.io/badge/Launch-NVDA%20Insights%20Studio-1765E8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live NVDA historical stock dashboard" /></a>
-<a href="https://nazirreally.github.io/netflix-pakistan-plotly/"><img src="https://img.shields.io/badge/Launch-Netflix%20Pakistan%20Analysis-1765E8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Netflix Pakistan historical catalogue dashboard" /></a>
-
-<sub>GitHub Pages · Static interactive demos · Historical datasets, not live data feeds</sub>
-
-</div>
+<sub>Both demos are documented GitHub Pages deployments using historical data, not live feeds. Netflix analysis concerns production-country credits, not regional viewership or availability.</sub>
 
 ---
 
-<a id="scientific-analytics"></a>
-## 03 / Scientific & Geospatial Analytics
+## Selected projects
 
-| Project | Focus |
+### 01 / Data Engineering & Backend
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nazirreally/inventory-reservation-api">Inventory Reservation API</a></h3>
+<sub>Transactional backend engineering</sub><br/><br/>
+Concurrency-safe stock holds, idempotent retries, expiration, cart availability and atomic batch reconciliation.
+<br/><br/>
+<code>FastAPI</code> <code>SQLite</code> <code>Docker</code> <code>Pytest</code>
+<br/><br/>
+<a href="https://github.com/nazirreally/inventory-reservation-api/actions/workflows/ci.yml"><img src="https://github.com/nazirreally/inventory-reservation-api/actions/workflows/ci.yml/badge.svg" alt="Inventory API CI"/></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nazirreally/schema-drift-guard">Schema Drift Guard</a></h3>
+<sub>Data quality & developer tooling</sub><br/><br/>
+Streaming CSV and gzip profiling, versioned schema contracts, policy-based drift detection, HTML and JSON audit reports.
+<br/><br/>
+<code>Python</code> <code>CLI</code> <code>JSON</code> <code>unittest</code>
+<br/><br/>
+<a href="https://github.com/nazirreally/schema-drift-guard/actions/workflows/tests.yml"><img src="https://github.com/nazirreally/schema-drift-guard/actions/workflows/tests.yml/badge.svg" alt="Schema Guard CI"/></a>
+</td>
+</tr>
+</table>
+
+### 02 / Business Analytics
+
+| Project | Analytical focus | Technologies |
+| :--- | :--- | :--- |
+| [**Cohort Retention Lab**](https://github.com/nazirreally/cohort-retention-lab) | Maturity-aware retention, weighted cohort curves, revenue and observed revenue per original customer | Python, pandas, Streamlit, Plotly |
+| [**NVDA Insights Studio**](https://github.com/nazirreally/nvda-insights-studio) | Historical financial time series, risk metrics, data quality and exportable reports | JavaScript, SVG, CSV |
+| [**Netflix Pakistan Analytics**](https://github.com/nazirreally/netflix-pakistan-plotly) | Historical catalogue EDA, production credits and South Asian comparisons | Python, Plotly, Jupyter, Streamlit |
+
+### 03 / Scientific & Geospatial Intelligence
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/nazirreally/global-development-atlas">Global Development Atlas</a></h3>
+<sub>Economics · Human development</sub><br/><br/>
+World Bank and OWID country-year indicators, interactive maps, country trajectories, relationships and coverage audits.
+<br/><br/><code>Python</code> <code>Streamlit</code> <code>R</code>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/nazirreally/energy-transition-atlas">Energy Transition Atlas</a></h3>
+<sub>Energy · Climate</sub><br/><br/>
+Electricity mix, emissions and economic indicators, with consecutive-year transition momentum and interactive geographic comparisons.
+<br/><br/><code>Python</code> <code>Streamlit</code> <code>Plotly</code>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/nazirreally/biodiversity-climate-observatory">Forest / Field Observatory</a></h3>
+<sub>Biodiversity · Environment</sub><br/><br/>
+GBIF reporting-effort aggregates and World Bank forest-cover indicators, including a South Asian forest analysis in R.
+<br/><br/><code>Python</code> <code>R</code> <code>Streamlit</code>
+</td>
+</tr>
+</table>
+
+<sub>Scientific applications are published source projects. Consult individual READMEs for live-ingestion, CI, data-coverage and browser-verification limitations.</sub>
+
+---
+
+## Technology stack
+
+| Layer | Technologies used in portfolio projects |
 | :--- | :--- |
-| [Global Development Atlas](https://github.com/nazirreally/global-development-atlas) | Cross-country development indicators |
-| [Energy Transition Atlas](https://github.com/nazirreally/energy-transition-atlas) | Renewable and fossil electricity trends, consecutive-year transition analysis and country comparisons |
-| [Biodiversity Climate Observatory](https://github.com/nazirreally/biodiversity-climate-observatory) | Biodiversity and climate exploration — developing project |
+| Languages & querying | Python, SQL, R, JavaScript |
+| Data processing | pandas, NumPy, CSV, JSON, SQLite |
+| APIs & services | FastAPI, Pydantic, REST |
+| Visualization | Plotly, Streamlit, ggplot2, SVG |
+| Web interfaces | HTML, CSS, JavaScript, GitHub Pages |
+| Engineering & delivery | Git, Docker, pytest, unittest, GitHub Actions |
 
----
+**Learning focus:** advanced orchestration, distributed processing, cloud data platforms, monitoring and business intelligence.
 
-<a id="software-engineering"></a>
-## 04 / Backend Engineering & Developer Tools
-
-| Project | Engineering focus |
-| :--- | :--- |
-| [Inventory Reservation API](https://github.com/nazirreally/inventory-reservation-api) | FastAPI, SQLite transactions, reservation expiry, idempotency and atomic inventory reconciliation |
-| [Schema Drift Guard](https://github.com/nazirreally/schema-drift-guard) | CSV schema contracts, gzip ingestion, HTML and JSON audit reports |
-
-[Inventory API verification workflow](https://github.com/nazirreally/inventory-reservation-api/actions) · [Schema Guard workflows](https://github.com/nazirreally/schema-drift-guard/actions)
-
----
-
-<a id="technology-stack"></a>
-## 05 / Technology Stack
-
-**Hands-on project technologies**
-
-Backend: FastAPI, SQLite · Analytics: Python, SQL, Pandas, Plotly, Streamlit · Delivery: Docker, GitHub Actions
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-1765E8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-1765E8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Docker-1765E8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Pandas-1765E8?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Plotly-1765E8?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-<img src="https://img.shields.io/badge/Streamlit-1765E8?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-1765E8?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-**Currently developing:** Power BI and DAX, data orchestration, cloud data services, and monitoring. These are learning goals, not claims of professional proficiency.
-
-**Coursework:** [IBM Data Analyst Course](https://github.com/nazirreally/IBM-Data-Analyst-Course) is separate from the featured projects.
-
----
-
-## How I approach a data project
+## Engineering approach
 
 <div align="center">
 <img src="assets/workflow-blue.svg" width="100%" alt="Data workflow: collect, validate, transform, model, visualize" />
 </div>
 
-I prioritize repeatable setup, explicit assumptions, automated tests, clear data provenance, and documentation that distinguishes **historical or synthetic demo data from live production data**.
+Repeatable setup, documented source provenance, explicit assumptions, validation at data boundaries and automated tests. I distinguish historical and synthetic demonstration data from live production data, and do not present correlation as causation.
+
+## Coursework
+
+[IBM Data Analyst Course](https://github.com/nazirreally/IBM-Data-Analyst-Course) — learning material, separate from the featured standalone projects.
 
 ---
 
 <div align="center">
 
-### Explore the work
+**Explore the code. Review the methodology. Run the projects.**
 
-<a href="https://github.com/nazirreally?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-1765E8?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories" /></a>
-<a href="https://github.com/nazirreally"><img src="https://img.shields.io/badge/GitHub%20Profile-FFFFFF?style=for-the-badge&logo=github&logoColor=1765E8&labelColor=EAF3FF" alt="GitHub profile"/></a>
+<a href="https://github.com/nazirreally?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-1765E8?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 
-<sub>Reliable pipelines · Thoughtful analysis · Continuous improvement</sub>
+<sub>Data products · Analytical thinking · Reliable engineering</sub>
 
 </div>
