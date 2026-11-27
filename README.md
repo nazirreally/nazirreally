@@ -6,7 +6,9 @@
 
 <a href="#data-engineering"><img src="https://img.shields.io/badge/01-Data%20Engineering-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Data Engineering projects"/></a>
 <a href="#data-analytics"><img src="https://img.shields.io/badge/02-Data%20Analytics-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Data Analytics projects"/></a>
-<a href="#technology-stack"><img src="https://img.shields.io/badge/03-Technology%20Stack-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Technology stack"/></a>
+<a href="#scientific-analytics"><img src="https://img.shields.io/badge/03-Science%20%26%20Geo-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Scientific analytics"/></a>
+<a href="#software-engineering"><img src="https://img.shields.io/badge/04-Backend%20Engineering-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Backend engineering"/></a>
+<a href="#technology-stack"><img src="https://img.shields.io/badge/05-Technology%20Stack-1765E8?style=for-the-badge&labelColor=EAF3FF" alt="Technology stack"/></a>
 
 </div>
 
@@ -14,7 +16,7 @@
 
 ### About this portfolio
 
-I’m **Nazir Ali Khan**, with a Computer Science background from **NED University**, building practical projects in **data engineering** and **data analytics / BI**. My work focuses on reliable ingestion, data validation, reproducible transformations, interpretable metrics, and usable analytics interfaces.
+I’m **Nazir Ali Khan**, building practical projects in **data engineering**, **data analytics / BI**, and **backend software engineering**. My work focuses on reliable ingestion, data validation, reproducible transformations, interpretable metrics, and usable analytics interfaces.
 
 The repositories below show **implemented portfolio projects and ongoing learning**, not claims of professional employment in these roles.
 
@@ -34,14 +36,11 @@ The repositories below show **implemented portfolio projects and ongoing learnin
 Reliable data movement, quality checks and analytical models.
 
 <div align="center">
-<a href="https://github.com/nazirreally/rideshare-lakehouse"><img src="assets/card-rideshare.svg" alt="Rideshare Lakehouse — Apache Spark, Delta Lake, dbt" width="49%" /></a>
 <a href="https://github.com/nazirreally/schema-drift-guard"><img src="assets/card-schema-drift.svg" alt="Schema Drift Guard — Python data contracts" width="49%" /></a>
 <a href="https://github.com/nazirreally/data-engineering-lab"><img src="assets/card-etl-lab.svg" alt="Data Engineering Lab — Python SQL ETL" width="49%" /></a>
 </div>
 
-**Featured:** [Rideshare Lakehouse](https://github.com/nazirreally/rideshare-lakehouse) implements a Docker-based **local** Spark + Delta Lake + dbt pipeline using synthetic trips, replay-safe updates, analytical marts and test workflows.
-
-**Also explore:** [Schema Drift Guard](https://github.com/nazirreally/schema-drift-guard), a dependency-free CSV schema contract CLI, and [Data Engineering Lab](https://github.com/nazirreally/data-engineering-lab), a Python + SQLite batch ETL learning repository.
+**Projects:** [Schema Drift Guard](https://github.com/nazirreally/schema-drift-guard), a dependency-free CSV schema contract CLI, and [Data Engineering Lab](https://github.com/nazirreally/data-engineering-lab), a Python + SQLite batch ETL learning repository.
 
 ---
 
@@ -73,17 +72,39 @@ From raw records to interactive reports and interpretable business metrics.
 
 ---
 
+<a id="scientific-analytics"></a>
+## 03 / Scientific & Geospatial Analytics
+
+| Project | Focus |
+| :--- | :--- |
+| [Global Development Atlas](https://github.com/nazirreally/global-development-atlas) | Cross-country development indicators |
+| [Energy Transition Atlas](https://github.com/nazirreally/energy-transition-atlas) | Renewable and fossil electricity trends, consecutive-year transition analysis and country comparisons |
+| [Biodiversity Climate Observatory](https://github.com/nazirreally/biodiversity-climate-observatory) | Biodiversity and climate exploration — developing project |
+
+---
+
+<a id="software-engineering"></a>
+## 04 / Backend Engineering & Developer Tools
+
+| Project | Engineering focus |
+| :--- | :--- |
+| [Inventory Reservation API](https://github.com/nazirreally/inventory-reservation-api) | FastAPI, SQLite transactions, reservation expiry, idempotency and atomic inventory reconciliation |
+| [Schema Drift Guard](https://github.com/nazirreally/schema-drift-guard) | CSV schema contracts, gzip ingestion, HTML and JSON audit reports |
+
+[Inventory API verification workflow](https://github.com/nazirreally/inventory-reservation-api/actions) · [Schema Guard workflows](https://github.com/nazirreally/schema-drift-guard/actions)
+
+---
+
 <a id="technology-stack"></a>
-## 03 / Technology Stack
+## 05 / Technology Stack
 
 **Hands-on project technologies**
+
+Backend: FastAPI, SQLite · Analytics: Python, SQL, Pandas, Plotly, Streamlit · Delivery: Docker, GitHub Actions
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-1765E8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-1765E8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Apache%20Spark-1765E8?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-<img src="https://img.shields.io/badge/Delta%20Lake-1765E8?style=for-the-badge" alt="Delta Lake" />
-<img src="https://img.shields.io/badge/dbt-1765E8?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 <img src="https://img.shields.io/badge/Docker-1765E8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Pandas-1765E8?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Plotly-1765E8?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
@@ -93,7 +114,7 @@ From raw records to interactive reports and interpretable business metrics.
 
 **Currently developing:** Power BI and DAX, data orchestration, cloud data services, and monitoring. These are learning goals, not claims of professional proficiency.
 
-**Additional work:** [Inventory Reservation API](https://github.com/nazirreally/inventory-reservation-api) explores transactional API correctness with FastAPI, SQLite and concurrency tests. The [IBM Data Analyst Course](https://github.com/nazirreally/IBM-Data-Analyst-Course) is coursework, separate from the projects above.
+**Coursework:** [IBM Data Analyst Course](https://github.com/nazirreally/IBM-Data-Analyst-Course) is separate from the featured projects.
 
 ---
 
